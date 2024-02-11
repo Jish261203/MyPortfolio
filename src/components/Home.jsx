@@ -14,13 +14,16 @@ const Home = () => {
 				<div className="flex flex-col justify-center h-full">
 					<h2 className="text-4xl sm:text-7xl font-bold text-white">
 						{" "}
-						I'm a Full Stack Developer
+						I'm a Business Analyst
 					</h2>
 					<p className="text-gray-400 py-4 max-w-md">
-						Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam,
-						nihil dolor? Expedita rem accusantium necessitatibus? Illum
-						inventore corrupti deleniti quos, ut est repellendus tenetur tempora
-						reprehenderit dolorum quis, reiciendis consequuntur.
+						PGDM candidate specializing in Finance with a minor in Analytics,
+						with skill set honed through hands-on experience in business
+						analysis and automation. Proven ability to conduct market research,
+						analyze data, automate tasks, and collaborate with cross-functional
+						teams to deliver results. Seeking to enhance and utilize these
+						skills while developing managerial qualities and promoting
+						organizational growth.
 					</p>
 					<div>
 						<Link

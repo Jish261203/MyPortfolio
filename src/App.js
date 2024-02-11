@@ -1,24 +1,23 @@
 import About from "./components/About";
 import Contact from "./components/Contact";
-import Experiences from "./components/Experiences";
+import Technologies from "./components/Technologies";
 import Home from "./components/Home";
 import Navbar from "./components/Navbar";
 import Portfolio from "./components/Portfolio";
 import SocialLinks from "./components/SocialLinks";
 
 function App() {
-
- return(
-  <div>
-    <Navbar/>
-    <Home/>
-    <About/>
-    <Portfolio/>
-    <Experiences/>
-    <Contact/>
-    <SocialLinks/>
-  </div>
- )
+	return (
+		<div>
+			<Navbar />
+			<Home />
+			<About />
+			<Portfolio />
+			<Technologies />
+			<Contact />
+			<SocialLinks />
+		</div>
+	);
 }
 
 export default App;
